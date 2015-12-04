@@ -4,3 +4,4 @@ memo3
 Dear shichi
 branch lean memo
 add memo1
+add memo2
