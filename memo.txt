@@ -1,4 +1,4 @@
-memo1
+memo1 hkt_memo_hkt
 memo2
 memo3
 memo4
